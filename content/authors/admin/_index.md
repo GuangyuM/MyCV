@@ -1,46 +1,50 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Guangyu Meng 
 
 # Username (this should match the folder name)
-authors:
+authors: GuangyuM
 - admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computer Science student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Washington University in St. Louis
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computer Vision, especially in object detection, image segmentation and understanding, and image captioning. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Deep Learning
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: M.S. in Computer Science (GPA:4.0/4.0)
+    institution: Washington University in St. Louis
+    year: 2021
+  - course: M.S. in Microelectronics System Design
+    institution: University of Southampton, UK
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.E. in Electronic Engineering
+    institution: University of Birmingham, UK
+    year: 2011
+  - course: B.E. in Electronic Science and Engineering 
+    institution: Huazhong University of Science & Technology
+    
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:Guangyu.Meng@wustl.edu" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -73,6 +77,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Guangyu Meng is a graduate student of Computer Science at the WashU Computational Imaging Lab. His research interests include Computer Vision, especially in object detection, image segmentation and understanding, and image captioning. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
